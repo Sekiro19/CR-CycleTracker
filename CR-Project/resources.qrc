@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="all">
+    <file>bin/images/h1.png</file>
+    <file>bin/images/h2.png</file>
+    <file>bin/images/h3.png</file>
+    <file>bin/images/gob.png</file>
+    <file>bin/images/mystery.png</file>
+  </qresource>
+</RCC>

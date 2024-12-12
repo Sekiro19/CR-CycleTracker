@@ -1,0 +1,1 @@
+pyside6-rcc C:\M\py\CR-Project\resources.qrc -o C:\M\py\CR-Project\resources_rc.py
